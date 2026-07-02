@@ -5,7 +5,10 @@
 #announce:Нажмите 🔄,затем ⏱️ и выберите сервер с наименьшим показателем пинга (мс) Для корректной работы впн обнови happ
 #support-url: https://Wa.me/79659571323
 #profile-web-page-url: https://Wa.me/79659571323
-happ://routing/bypass-lan-and-cn?name=Bypass+LAN+and+CN
+#subscription-pin: 1
+#subscriptions-collapse: 0
+#hide-settings: 1
+
 
 
 
