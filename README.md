@@ -1,8 +1,8 @@
-#subscription-userinfo: upload=16; download=0; total=0; expire=999999999999999
-#profile-title: Обход Блокировок 💎
+#subscription-userinfo: upload=18; download=0; total=0; expire=999999999999999
+#profile-title: Обход Блокировок 
 #profile-update-interval: 1
 #subscription-update-interval: 1
-#announce:Нажмите 🔄,затем ⏱️ и выберите сервер с наименьшим показателем пинга (мс) Для корректной работы впн обнови happ
+#announce:base64: 0J3QsNC20LzQuNGC0LUgwqvwn5SEwrss0LfQsNGC0LXQvCDCq+KPse+4j8K7INC4INCy0YvQsdC10YDQuNGC0LUg0YHQtdGA0LLQtdGAINGBINC90LDQuNC80LXQvdGM0YjQuNC8INC/0LjQvdCz0L7QvCAo0LzRgSkg0LTQu9GPINC+0L/RgtC40LzQsNC70YzQvdC+0Lkg0YHQutC+0YDQvtGB0YLQuC4KCtCU0LvRjyDRgdGC0LDQsdC40LvRjNC90L7QuSDRgNCw0LHQvtGC0YsgVlBOINC+0LHQvdC+0LLQuNGC0LUg0L/RgNC40LvQvtC20LXQvdC40LUgSGFwcCDQtNC+INCw0LrRgtGD0LDQu9GM0L3QvtC5INCy0LXRgNGB0LjQuC4KIArCqyBBZGFtIFZwbiDCuyA6ICs3IDk2NSA5NTctMTMtMjM=
 #support-url: https://Wa.me/79659571323
 #profile-web-page-url: https://Wa.me/79659571323
 #sort-order: ping
