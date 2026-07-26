@@ -21,7 +21,7 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 
 #happ-logo:https://i.ibb.co/fzfwyQg5/th-gna-GNd-Rx-Eah-PJRm-U38t-Nj-Ze-F2u8-Ty-ZUA0kar-Oc32z.jpg
 #happ-blur: 20
-
+#happ-status-bar-style: light
 
 vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@alban.freeinternat.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=alban.freeinternat.com&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B1%20%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F%20(YouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B)?serverDescription=Kzc5NjU5NTcxMzIz
 vless://fdbecf5e-fc04-4d6f-8b64-505c7fd2543e@rf3.freeinternat.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rf3.freeinternat.com&fp=firefox&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&spx=%2F&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20(YouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B)?serverDescription=Kzc5NjU5NTcxMzIz
