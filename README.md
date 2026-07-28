@@ -1,4 +1,4 @@
-#subscription-userinfo: upload=19; download=0; total=0; expire=999999999999999
+#subscription-userinfo: upload=20; download=0; total=0; expire=999999999999999
 #profile-title: Обход Блокировок 
 #profile-update-interval: 1
 #subscription-update-interval: 2
