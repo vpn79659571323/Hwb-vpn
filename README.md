@@ -1,4 +1,4 @@
-#subscription-userinfo: upload=69; download=0; total=0; expire=999999999999999
+#subscription-userinfo: upload=70; download=0; total=0; expire=999999999999999
 #profile-title: 𝐅𝐚𝐬𝐭𝐞𝐫 𝐕𝐏𝐍 🚀
 #profile-update-interval: 1
 #subscription-update-interval: 2
@@ -20,6 +20,14 @@ happ://routing/add/eyJibG9ja2lwIjpbXSwiYmxvY2tzaXRlcyI6W10sImRpcmVjdGlwIjpbIjEwL
 #color-profile: eyJiYWNrZ3JvdW5kR3JhZGllbnRSb3RhdGlvbkFuZ2xlIjozNy4xLCJzZXJ2ZXJSb3dCYWNrZ3JvdW5kQ29sb3IiOiIjMEQxRDMwRkYiLCJzdWJzSGVhZGVyQ29sb3IiOiIjMDA0RjdGRkYiLCJwcm9maWxlV2ViUGFnZUljb25Db2xvciI6IiNGRUZGRUZGRiIsInNlbGVjdGVkU2VydmVyUm93Q29sb3IiOiIjMDA0RjdGQjUiLCJkaXNjbG9zdXJlU3ViSGVhZGVyVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwiYnV0dG9uVGV4dENvbG9yIjoiIzAwQzg1M0ZGIiwiYnV0dG9uVGltZXJDb2xvciI6IiMwMEM4NTNGRiIsInN1YnNjcmlwdGlvbkluZm9CYWNrZ3JvdW5kQ29sb3IiOiIjMDA0RjdGRkYiLCJiYWNrZ3JvdW5kQ29sb3JzIjpbIiMwQzE4MzBGRiIsIiMxQzI4NDBGRiIsIiMyQzM4NTBGRiJdLCJkaXNjbG9zdXJlSGVhZGVyVGV4dENvbG9yIjoiI0ZGRkZGRkZGIiwiYmFja2dyb3VuZEdyYWRpZW50Q29sb3JJbnRlbnNpdHkiOjEsImFkZGl0aW9uYWxPcHRpb25zQnV0dG9uQ29sb3IiOiIjRkVGRkVGRkYiLCJidXR0b25JbWFnZVR5cGUiOiJkYXJrIiwic2VydmVyUm93U3ViVGl0bGVUZXh0Q29sb3IiOiIjRkVGRkVGRkYiLCJzdXBwb3J0SWNvbkNvbG9yIjoiI0ZGRkZGRkZGIiwidG9wQmFyQnV0dG9uc0NvbG9yIjoiI0ZGRkZGRkZGIiwic3Vic2NyaXB0aW9uVHJhZmZpY0JhY2tncm91bmRDb2xvciI6IiMwMDNFQkVGRiIsInN1YkhlYWRlckJ1dHRvbkNvbG9yIjoiI0ZGRkZGRkZGIiwiYnV0dG9uQ29sb3IiOiIjMUUxRTFFRkYiLCJwb3dlckljb25Db2xvciI6IiNGRUZGRUZGRiIsInN1YnNjcmlwdGlvbkluZm9UZXh0Q29sb3IiOiIjRkVGRkVGRkYiLCJzZXJ2ZXJSb3dUaXRsZVRleHRDb2xvciI6IiNGRUZGRUZGRiIsImJhY2tncm91bmRJbWFnZVR5cGUiOiJzeXN0ZW0iLCJlbGlwc2VDb2xvcnMiOlsiIzAwNDdFOEZGIiwiIzAwM0JCRUZGIiwiRkVGRkVGRkZGIiwiaW1hZ2U6OiJdLCJzZXJ2ZXJSb3dDaGV2cm9uQ29sb3IiOiIjRkVGRkVGRkYifQ==
 
 
+vless://e6b4bc67-aaa1-4288-8add-e3def2149a56@77.232.38.54:16443?security=reality&encryption=none&pbk=wbW1CtZ1POZCFEi8nxjV2U75UcA2t10-sYwnp35NC2g&headerType=none&fp=firefox&type=tcp&sni=netherlands.the-tech.studio&sid=cb5cf18580eb9de6#🇪🇪 Основные | ⭐ 1
+vless://e6b4bc67-aaa1-4288-8add-e3def2149a56@77.232.38.54:16443?security=reality&encryption=none&pbk=wbW1CtZ1POZCFEi8nxjV2U75UcA2t10-sYwnp35NC2g&headerType=none&fp=firefox&type=tcp&sni=netherlands.the-tech.studio&sid=cb5cf18580eb9de6#🇪🇪 Основные | ⭐ 2
+vless://e6b4bc67-aaa1-4288-8add-e3def2149a56@188.120.226.125:16443?security=reality&encryption=none&pbk=wbW1CtZ1POZCFEi8nxjV2U75UcA2t10-sYwnp35NC2g&headerType=none&fp=firefox&type=tcp&sni=netherlands.the-tech.studio&sid=cb5cf18580eb9de6#🇪🇪 Основные | ⭐ 3
+vless://e6b4bc67-aaa1-4288-8add-e3def2149a56@russia.the-tech.studio:443?security=reality&encryption=none&pbk=wbW1CtZ1POZCFEi8nxjV2U75UcA2t10-sYwnp35NC2g&headerType=none&fp=firefox&type=tcp&sni=ru1.the-tech.studio&sid=cb5cf18580eb9de6#🇪🇪 Основные | ⭐ 4
+vless://e6b4bc67-aaa1-4288-8add-e3def2149a56@188.120.226.125:33443?security=reality&encryption=none&pbk=wbW1CtZ1POZCFEi8nxjV2U75UcA2t10-sYwnp35NC2g&headerType=none&fp=firefox&type=tcp&sni=tr1.the-tech.studio&sid=cb5cf18580eb9de6#🇪🇪 Основные | ⭐ 5
+vless://e6b4bc67-aaa1-4288-8add-e3def2149a56@us1.the-tech.studio:443?security=reality&encryption=none&pbk=wbW1CtZ1POZCFEi8nxjV2U75UcA2t10-sYwnp35NC2g&headerType=none&fp=firefox&type=tcp&sni=us1.the-tech.studio&sid=cb5cf18580eb9de6#🇪🇪 Основные | ⭐ 6
+vless://e6b4bc67-aaa1-4288-8add-e3def2149a56@188.120.226.125:31443?security=reality&encryption=none&pbk=wbW1CtZ1POZCFEi8nxjV2U75UcA2t10-sYwnp35NC2g&headerType=none&fp=firefox&type=tcp&sni=fi1.the-tech.studio&sid=cb5cf18580eb9de6#🇪🇪 Основные | ⭐ 7
+vless://e6b4bc67-aaa1-4288-8add-e3def2149a56@se-vless-entry.the-tech.studio:32443?security=reality&encryption=none&pbk=wbW1CtZ1POZCFEi8nxjV2U75UcA2t10-sYwnp35NC2g&headerType=none&fp=firefox&type=tcp&sni=se1.the-tech.studio&sid=cb5cf18580eb9de6#🇪🇪 Основные | ⭐ 8
 
 
 vless://0839b9b7-4131-44d7-8d67-f57bef9a2bd1@torrents.failspace.top:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=torrents.failspace.top&fp=firefox&alpn=h2#🇰🇬 Faster vpn 🚀 1
